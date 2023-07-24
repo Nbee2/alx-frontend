@@ -1,4 +1,4 @@
-Advanced CSS contains Topics like: 
+Advanced CSS contains topics like: 
 Selectors, properties, and values
 The difference between block and inline styling
 How to ensure consistency across all browsers (CSS reset)
@@ -10,4 +10,3 @@ The difference between pseudo-classes and pseudo-elements
 How to make background gradients
 How to animate elements in CSS
 How to transform (2d, 3d) elements
-What vendor prefixes are
